@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Dec 04 00:45:51 VET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-018c-3325-9946-000007423858 
+on database directory /home/carlos/NetBeansProjects/Prestamos/booksdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15327b79 
+Loaded from file:/home/carlos/.m2/repository/org/apache/derby/derby/10.17.1.0/derby-10.17.1.0.jar
+java.vendor=Red Hat, Inc.
+java.runtime.version=21+35
+user.dir=/home/carlos/NetBeansProjects/Prestamos
+os.name=Linux
+os.arch=amd64
+os.version=6.6.2-201.fc39.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
